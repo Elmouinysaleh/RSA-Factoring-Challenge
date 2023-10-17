@@ -1,6 +1,6 @@
 # RSA-Factoring-Challenge
 
-![RSA-Image](images/RSA-img.JPG)
+
 
 ## Description
 
@@ -85,10 +85,6 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-2
 	77
 ```
-
-## Author
-
-[David Atat](www.github.com/daveeazi)
 
 ## Resources
 
